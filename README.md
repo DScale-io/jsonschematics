@@ -14,7 +14,7 @@
 To install the package, use the following command:
 
 ```sh
-go get github.com/ashbeelghouri/jsonschematics@latest
+go get github.com/DScale-io/jsonschematics@latest
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -61,7 +61,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -84,7 +84,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -113,7 +113,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -150,7 +150,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -195,7 +195,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -218,7 +218,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
@@ -246,7 +246,7 @@ package main
 import (
     "fmt"
     "strings"
-    "github.com/ashbeelghouri/jsonschematics"
+    "github.com/DScale-io/jsonschematics"
 )
 
 func main() {
