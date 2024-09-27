@@ -1,7 +1,7 @@
 package conditions
 
 import (
-	"github.com/ashbeelghouri/jsonschematics/utils"
+	"github.com/DScale-io/jsonschematics/utils"
 )
 
 type Conditions struct {

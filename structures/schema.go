@@ -1,8 +1,8 @@
 package structures
 
 import (
-	"github.com/ashbeelghouri/jsonschematics/errorHandler"
-	"github.com/ashbeelghouri/jsonschematics/utils"
+	"github.com/DScale-io/jsonschematics/errorHandler"
+	"github.com/DScale-io/jsonschematics/utils"
 )
 
 type TargetKey string

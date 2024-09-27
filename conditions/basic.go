@@ -1,7 +1,7 @@
 package conditions
 
 import (
-	"github.com/ashbeelghouri/jsonschematics/structures"
+	"github.com/DScale-io/jsonschematics/structures"
 )
 
 func FieldIsProvided(_ map[string]interface{}, attr map[string]interface{}) bool {
